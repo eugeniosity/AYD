@@ -4,7 +4,7 @@
 # ============================================================
 
 # --- CONFIGURE THIS: where downloaded videos should be saved ---
-$DownloadDirectory = "D:\Files\Videos\Downloads"
+$DownloadDirectory = "%USERPROFILE%\Videos"
 
 # --- Path to yt-dlp.exe. If yt-dlp is already in your PATH, "yt-dlp" alone works. ---
 $YtDlpPath = "yt-dlp"
